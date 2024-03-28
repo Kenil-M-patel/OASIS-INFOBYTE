@@ -33,13 +33,15 @@ Division
     Input: 100 / 5 / 2
     Result: 10
 
-<h2>How It Works</h2>
+How It Works
 This calculator utilizes JavaScript to perform the arithmetic operations on the user's input. It is designed to handle various scenarios, ensuring accurate results even when equations start or end with operators.
 
-<h2>Feedback and Contributions</h2>
+Feedback and Contributions
+
 Your feedback is valuable! If you have any suggestions, encounter issues, or want to contribute to the project, please feel free to open an issue or create a pull request. Your input helps us improve the calculator for everyone.
 
-<h2>About</h2>
+About
+
 This Web-Based Integer Calculator is developed and maintained by Kenilkumar Mukeshbhai Patel.
 
 Thank you for using the Web-Based Integer Calculator! We hope it simplifies your integer arithmetic tasks and makes calculations a breeze.

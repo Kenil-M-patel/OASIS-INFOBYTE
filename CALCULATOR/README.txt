@@ -1,7 +1,8 @@
 Web-Based Integer Calculator
+
 Welcome to the Web-Based Integer Calculator! This calculator is designed to handle basic arithmetic operations with integers, providing a seamless and efficient experience for users.
 
-<h2>Features</h2>
+Features
 Addition (+): Add two or more integers together.
 Subtraction (-): Subtract one integer from another.
 Multiplication (*): Multiply integers for quick calculations.
@@ -32,7 +33,7 @@ Division
     Input: 100 / 5 / 2
     Result: 10
 
-<h2>How It Works</h2
+<h2>How It Works</h2>
 This calculator utilizes JavaScript to perform the arithmetic operations on the user's input. It is designed to handle various scenarios, ensuring accurate results even when equations start or end with operators.
 
 <h2>Feedback and Contributions</h2>

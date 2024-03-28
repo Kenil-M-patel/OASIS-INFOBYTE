@@ -1,4 +1,4 @@
-Web-Based Integer Calculator
+<h1>Web-Based Integer Calculator<h1>
 
 Welcome to the Web-Based Integer Calculator! This calculator is designed to handle basic arithmetic operations with integers, providing a seamless and efficient experience for users.
 
